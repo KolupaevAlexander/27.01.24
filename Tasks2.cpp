@@ -131,9 +131,8 @@ int main()
                            {{1,2,-1},{1,2,3},{1,2,3}}};
 
 
-    //cout << FirstTask(firstArray);
     //cout << FirstTask(firstArray1)<<endl;
-    //cout << FirstTask(firstArray2);
+    cout << FirstTask(firstArray2);
     //SecondTask(secondArray);
     //ThirdTask();
     //FourthTask();
